@@ -1,7 +1,7 @@
 **Read this in other languages: [English](README.md), [中文](README_zh.md).**
 
 ## Constructing the Large Noisy Data Set from Mining Sites
-
+### From Liaoning University of Engineering and Technology - zxm
 ### Introduction
 Mining sites generate a wealth of data, including noise measurements. Constructing a large and diverse dataset for research purposes involves systematic planning, data collection, and organization. Below are the steps involved in creating this dataset:
 
@@ -16,8 +16,8 @@ Mining sites generate a wealth of data, including noise measurements. Constructi
 
 3. **Site Selection**
    - Identify a diverse set of mining sites across China. Consider factors like:
-     - Geographical distribution (north, south, east, west)
-     - Types of mining (open-pit, underground, quarry)
+     - Geographical Distribution (Jingfu Coal Industry, Luning Mengjiayao Coal Industry, Shangyuquan Coal Industry, Shendong Baode Coal Mine, Mabao Coal Mine)
+     - Types of mining 
      - Environmental conditions (altitude, climate)
    - Obtain necessary permissions from mine operators or authorities.
 
