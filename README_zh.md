@@ -1,4 +1,4 @@
-**其他语言版本: [English](README.md), [中文](README_zh.md).**
+**其他语言版本: [English](readme.md), [中文](README_zh.md).**
 
 
 ## 构建来自矿场的大型噪声数据集
